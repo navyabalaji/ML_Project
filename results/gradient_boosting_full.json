@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.6676,
+  "precision": 0.1978,
+  "recall": 0.4138,
+  "f1": 0.2676,
+  "roc_auc": 0.6075,
+  "pr_auc": 0.195,
+  "model": "gradient_boosting",
+  "feature_set": "full",
+  "n_train": 429942,
+  "n_test": 128773,
+  "n_features": 48,
+  "train_time_s": 112.95,
+  "predict_time_s": 0.425,
+  "predict_us_per_row": 3.3,
+  "model_size_mb": 0.211,
+  "threshold": 0.5
+}

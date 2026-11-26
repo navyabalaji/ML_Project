@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+
+T_ONTIME_MARKETING.csv
+Consumer_Airfare_Report__Table_2_-_Top_1_000_City-Pair_Markets_20240710.csv
+
+features_out/*.npy
+features_out/preprocessor.joblib
+results/models/
+results/preds/

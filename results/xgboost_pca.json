@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.771,
+  "precision": 0.2534,
+  "recall": 0.2878,
+  "f1": 0.2695,
+  "roc_auc": 0.6286,
+  "pr_auc": 0.2282,
+  "model": "xgboost",
+  "feature_set": "pca",
+  "n_train": 429942,
+  "n_test": 128773,
+  "n_features": 28,
+  "train_time_s": 13.69,
+  "predict_time_s": 0.199,
+  "predict_us_per_row": 1.55,
+  "model_size_mb": 1.866,
+  "threshold": 0.5
+}
